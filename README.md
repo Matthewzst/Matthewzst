@@ -20,7 +20,7 @@ My goal is to build practical, well‑structured projects that reflect real engi
 
 ---  
 
-## 🚀 Currently Working On
+## Currently Working On
 - Engineering thesis: Design and execution of a remotely controlled robot using wireless communication  
 - C++ and C# application prototypes  
 - Expanding my GitHub with academic and personal projects  
