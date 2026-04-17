@@ -31,7 +31,6 @@ My goal is to build practical, well‑structured projects that reflect real engi
 - 🎓 Computer Science student (Maritime University of Szczecin)
 - 💻 Interested in C++, C#, automotive, robotics, app development and GameDev
 - 🚀 Building academic and personal projects to grow as a developer
-- 🤝 Open to collaboration on C++ / C# projects
 - 📚 Always learning something new
 
 
